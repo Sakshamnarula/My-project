@@ -1,0 +1,21 @@
+.fixed{
+    position: fixed;
+    bottom: 0;
+    padding: 10px;
+}
+.chat-box {
+ margin: 20px;   
+}
+
+.user {
+    border: 2px solid #3498db;
+}
+
+.bot {
+    border: 2px solid #2ecc71;
+}
+
+.chat-box span{
+    padding: 15px;
+    
+}
